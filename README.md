@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-[![Twitter](https://img.shields.io/badge/<ChrystianRubio>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RubioChrys)
 
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
