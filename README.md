@@ -6,6 +6,8 @@
 
 [![Linkedin: Chrystian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystian-rubio-8431a61b2/)](https://www.linkedin.com/in/chrystian-rubio-8431a61b2/)
 
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
