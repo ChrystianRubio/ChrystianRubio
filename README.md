@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/RubioChrys)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Chrystian?style=social)](https://twitter.com/RubioChrys)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystian-rubio-8431a61b2/)](https://www.linkedin.com/in/chrystian-rubio-8431a61b2/)
 <!--
 **ChrystianRubio/ChrystianRubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
