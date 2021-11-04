@@ -12,7 +12,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChrystianRubio&show_icons=true&theme=tokyonight" alt="ChrystianRubio" style="min-width=50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianRubio&theme=tokyonight&layout=compact" alt="ChrystianRubio" style="max-width=70%"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrystianRubio)](https://github.com/ChrystianRubio/github-readme-stats)
